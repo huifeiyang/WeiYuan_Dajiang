@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/huifeiyang/WeiYuan_Dajiang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huifeiyang/WeiYuan_Dajiang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<center>
+<font face="黑体" size="5" color="">
+<br/><a href="http://202.102.26.253:8182/files/76/AQ-01-F-F.jpg">A区地下室水图-01-给排水、消火栓平面图 - 副本 - 副本</a>
+<br/><a href="http://202.102.26.253:8182/files/76/AQ-01-F.jpg">A区地下室水图-01-给排水、消火栓平面图 - 副本</a>
+<br/><a href="http://202.102.26.253:8182/files/76/AQ-02-F.jpg">A区地下室水图-02-给排水、消火栓系统图 - 副本</a>
+<br/><a href="http://202.102.26.253:8182/files/76/AQ-02.jpg">A区地下室水图-02-给排水、消火栓系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/AQ-02-F-01.jpg">A区地下室水图-02-消火栓、自喷系统图 - 副本</a>
+<br/><a href="http://202.102.26.253:8182/files/76/AQ-02-01.jpg">A区地下室水图-02-消火栓、自喷系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/BQ-01.jpg">B区地下室水图-01-给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/BQ-02.jpg">B区地下室水图-02-消火栓、自喷系统图,地下室消防泵房详图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJ-Z-1.jpg">大江文化给排水总说明1</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJ-Z-2.jpg">大江文化给排水总说明2</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-01-1.jpg">大江文化综合楼01-一层给排水、消火栓、自喷平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-01-2.jpg">大江文化综合楼01-一层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-02-1.jpg">大江文化综合楼02-二层给排水、消火栓，自喷平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-02-2.jpg">大江文化综合楼02-二层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-03-1.jpg">大江文化综合楼03-三层给排水、消火栓，自喷平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-03-2.jpg">大江文化综合楼03-三层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-04-1.jpg">大江文化综合楼04-四层给排水、消火栓，自喷平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-04-2.jpg">大江文化综合楼04-四层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-05-1.jpg">大江文化综合楼05-五至二十四层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-05-2.jpg">大江文化综合楼05-五至二十五层给排水、消火栓，喷淋平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-06.jpg">大江文化综合楼06-屋面给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-07.jpg">大江文化综合楼07-卫生间大样图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-08.jpg">大江文化综合楼08-消火栓，自喷系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/DJZ-09.jpg">大江文化综合楼09-给水系统图、排水系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/WHCY-A-01.jpg">文化产业市场A区01-一层~屋顶层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/WHCY-A-02.jpg">文化产业市场A区02-一层~三层自喷平面图、给排水系统图，消火栓、喷淋系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/WHCY-B-01.jpg">文化产业市场B区01-一层~三层自喷平面图、给排水系统图，消火栓、喷淋系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/WHCY-B-02.jpg">文化产业市场B区02-一层~三层自喷平面图、给排水系统图，消火栓、喷淋系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/MQJJ-01.jpg">明清家具展示中心01-一层~屋顶层给排水、消火栓平面图</a>
+</font>
+</center>
